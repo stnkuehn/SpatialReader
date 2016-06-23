@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Plot CSV files which was generated with "spatialreader".
+# Plot a CSV file which was generated with "spatialreader".
 #
 # Copyright (C) 2015  Steffen Kuehn / steffen.kuehn@em-sys-dev.de
 #
